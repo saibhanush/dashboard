@@ -14,19 +14,14 @@ Technologies Used
 
 To get started with this project, follow these steps:
 
-Clone the Repository
-
-
-## git clone https://github.com/saibhanush/dashboard.git
-Navigate to the Project Directory
-
-
-## cd responsive-dynamic-dashboard
-Install Dependencies
-
-## npm install
-Start the Development Server
-## npm start
+## Clone the Repository
+ git clone https://github.com/saibhanush/dashboard.git
+##Navigate to the Project Directory
+cd responsive-dynamic-dashboard
+## Install Dependencies
+npm install
+## Start the Development Server
+npm start
 This will start the development server and open the application in your default web browser.
 
 Usage
