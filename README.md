@@ -16,25 +16,16 @@ To get started with this project, follow these steps:
 
 Clone the Repository
 
-bash
-Copy code
+
 ## git clone https://github.com/saibhanush/dashboard.git
 Navigate to the Project Directory
 
-bash
-Copy code
 
 ## cd responsive-dynamic-dashboard
 Install Dependencies
 
-
-bash
-Copy code
 ## npm install
 Start the Development Server
-
-bash
-Copy code
 ## npm start
 This will start the development server and open the application in your default web browser.
 
